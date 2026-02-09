@@ -36,11 +36,14 @@ Open to Feedback: As this is an independent project, I am fully open to and welc
 Whether you have ideas for improving the LDA topic modeling or suggestions for additional data sources, please feel free to:
 
 Open an Issue in this repository.
+
 Submit a Pull Request.
+
 Reach out with professional feedback.
 
 References
 Braun, V., & Clarke, V. (2021). Thematic Analysis: A Practical Guide.
 Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis.
 Lazer, D., et al. (2009). Computational Social Science. Science.
+
 Devlin, J., et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers.
